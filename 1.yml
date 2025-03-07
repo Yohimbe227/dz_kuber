@@ -1,0 +1,39 @@
+user:
+  is_admin: true
+  name: yuriy
+  age: 44
+  position: devops
+  address:
+    country: Russia
+    city: Orel
+    street: Lenina
+    house_number: 1
+    apartment_number: 2
+
+  skills:
+  - name: docker
+    level: 3
+    description: |
+     Бла бла бал
+     да да да
+  - name: ansible
+    level: 3
+    description: |
+     second
+     description
+  - name: linux
+    level: 5
+    description: |
+     "third
+      description"
+
+  pets:
+    - name: sonic
+      poroda: siamskiy
+      is_myu: true
+    - name: sheldon
+      poroda: ovcharka
+      is_myu: false
+    - name: tesha
+      poroda: neandertalec
+      is_myu: false
